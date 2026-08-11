@@ -4,6 +4,21 @@
 
 ---
 
+## 📸 Скриншоты интерфейса
+
+### Десктопная версия
+<p align="center">
+  <img src="screenshots/main-screen.png" width="30%" alt="Главный экран" />
+  <img src="screenshots/upgrades.png" width="30%" alt="Магазин улучшений" />
+  <img src="screenshots/event.png" width="30%" alt="Игровое событие" />
+</p>
+
+### Мобильная версия
+<p align="center">
+  <img src="screenshots/mobile.png" width="25%" alt="Мобильный вид" />
+</p>
+
+
 ## 1. 🚀 Как запустить
 
 > ⚠️ **Важно:** Игра использует серверную логику на Python. Не запускайте проект через статические расширения вроде Live Server (порт 5500) в VS Code! Используйте команды ниже.
