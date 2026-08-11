@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Клонируй репозиторий
-git clone <url-репозитория>
+git clone <https://github.com/V-Ladyan/DogeCoinEmpire>
 cd doge-coin-empire
 
 # 2. Установи зависимости
