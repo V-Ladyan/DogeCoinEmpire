@@ -1,0 +1,28 @@
+# .gitignore
+
+#DataBase
+*.db
+
+# VirtualEnivronment
+venv/
+env/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SystemFile
+.DS_Store
+Thumbs.db
+
+# Screenshots
+screenshots/*
+!screenshots/.gitkeep
